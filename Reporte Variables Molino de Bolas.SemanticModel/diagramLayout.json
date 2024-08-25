@@ -1,0 +1,73 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 20,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 58,
+            "y": 0
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "e4363b65-820c-4878-90fc-0a77063ae225",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 649,
+            "y": 123
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "c5286547-15ef-4116-8b12-3c9688f7224c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 237,
+            "y": 198
+          },
+          "nodeIndex": "Fact M BALL",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 423,
+            "y": 1
+          },
+          "nodeIndex": "Dim Variables",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}

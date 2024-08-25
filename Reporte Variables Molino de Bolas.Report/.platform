@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Reporte Variables Molino de Bolas"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a7750b0f-deba-47da-a8c4-8f32b4d4871d"
+  }
+}
