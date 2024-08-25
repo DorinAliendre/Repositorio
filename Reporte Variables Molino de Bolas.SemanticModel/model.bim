@@ -709,7 +709,7 @@
             "lineageTag": "e2851313-51c9-41d6-aa34-e2f1f32d98d0"
           },
           {
-            "name": "Molino 1",
+            "name": "Molino 1234",
             "annotations": [
               {
                 "name": "PBI_FormatHint",
@@ -752,7 +752,7 @@
             "expression": [
               "",
               "var _condicion=",
-              "    IF([Molino 1]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
+              "    IF([Molino 1234]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
               "var _prom= ROUND([Promedio],1)",
               "return",
               "\"Promedio Global: \"&_prom&\" | \"&_condicion",
@@ -764,7 +764,7 @@
             "name": "Color sub tajeta",
             "expression": [
               "",
-              " IF([Molino 1]>[Molino 2],\"#2b4552\",\"#9a031e\")"
+              " IF([Molino 1234]>[Molino 2],\"#2b4552\",\"#9a031e\")"
             ],
             "lineageTag": "dd661e3d-f2c8-44c3-8f4b-150a535639f9"
           },
@@ -899,8 +899,8 @@
             "expression": [
               "",
               "var _condicion=",
-              "    IF([Molino 1]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
-              "var _prom= ROUND([Molino 1],1)",
+              "    IF([Molino 1234]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
+              "var _prom= ROUND([Molino 1234],1)",
               "return",
               "\"Promedio Global: \"&_prom&\" | \"&_condicion",
               ""
@@ -912,7 +912,7 @@
             "expression": [
               "",
               "var _condicion=",
-              "    IF([Molino 1]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
+              "    IF([Molino 1234]>= [Molino 2],\"M1 > M2\",\"M1 < M2\")",
               "var _prom= ROUND([Molino 2],1)",
               "return",
               "\"Promedio Global: \"&_prom&\" | \"&_condicion",
